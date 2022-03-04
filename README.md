@@ -1,4 +1,4 @@
-# Cruchy vs Smooth V2
+# SolPoll
 
 A simple [Solana](https://solana.com/) program to vote for your favorite type of peanut butter. Built with [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html) and [React](https://reactjs.org/).
 
